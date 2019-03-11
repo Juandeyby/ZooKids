@@ -70,8 +70,10 @@
     <Compile Include="Assets\Application\Scripts\2_Controller\ARController.cs" />
     <Compile Include="Assets\Application\Scripts\2_Controller\MainController.cs" />
     <Compile Include="Assets\Application\Scripts\2_Controller\StartController.cs" />
+    <Compile Include="Assets\Application\Scripts\3_View\HabitatsLunesView.cs" />
     <Compile Include="Assets\Application\Scripts\3_View\MainView.cs" />
     <Compile Include="Assets\Application\Scripts\3_View\StartView.cs" />
+    <Compile Include="Assets\Application\Scripts\3_View\WeekButtonView.cs" />
     <Compile Include="Assets\Application\Scripts\MainApplication.cs" />
     <Compile Include="Assets\Application\Scripts\StartApplication.cs" />
     <Compile Include="Assets\GoogleARCore\Examples\AugmentedFaces\Scripts\ARCoreAugmentedFaceMeshFilter.cs" />
